@@ -6,7 +6,7 @@ const books = [
         lang: "en",
         numPage: 250,
         author:[1, 2],
-        publications: [1],
+        publications: 1,
         category: ["tech", "education", "space"]
     },
 
@@ -17,7 +17,7 @@ const books = [
         lang: "en",
         numPage: 250,
         author:[2],
-        publications: [2],
+        publications: 2,
         category: ["comic", "action"]
     }
 ]
@@ -26,7 +26,7 @@ const author = [
     {
         id:1,
         name : "aditi",
-        books: ["12345book", "blahbook"]
+        books: ["12345book", "262600book"]
     },
     {
         id:2,
@@ -39,7 +39,7 @@ const publication = [
     {
         id:1,
         name: "writex",
-        books: ["12345book"]
+        books: ["12345book", "262600book"]
     },
 
     {

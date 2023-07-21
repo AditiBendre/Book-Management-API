@@ -31,3 +31,16 @@
 //To get all the publications
 //To get a specific publication
 //To get a list of publications based on a book 
+
+//POST REQUESTS
+//1.To add a new book
+//2.To add a new author
+//3.To add a new publication
+
+//PUT 
+//1.Update book details if publication is changed
+
+//DELETE 
+//1.Deleete a book
+//2.Delete an author from the book
+//3.Delete an author form the book and related book from the author 
